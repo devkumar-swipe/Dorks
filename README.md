@@ -3,7 +3,7 @@
 Welcome to the **Dorks Collection** repository! This project contains various dorks that can be used for information gathering and search engine hacking. Dorks are special search queries used by hackers and researchers to uncover hidden data on the internet. This repository is organized into three categories:
 
 1. **GitHub Dorks**
-2. **JS Dorks**
+2. **Shodan Dorks**
 3. **Awesome Google Dorks**
 
 
